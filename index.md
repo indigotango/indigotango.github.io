@@ -7,7 +7,7 @@ Homepage for Brandon Tracer
 ### GPG
 Key fingerprint: A6BA 649D 32A6 659B 9B6A D7CB 1F76 361D 588F 630A
 
-'''
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -45,4 +45,4 @@ TwWk1HHSh4+TlGCD4fZuX7hdMH+1rBZ/NyIWAPsH4Tr5K5t8z4YpF+oeHPbBv6aF
 s1VtxsJQ9IEZSNtBBg==
 =D0XR
 -----END PGP SIGNATURE-----
-'''
+```
